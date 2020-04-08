@@ -1,4 +1,6 @@
 git工作流分为三个，工作区--->暂存区--->git仓库
 
-git add从工作区添加到暂存区
+git add 文件名   从工作区添加到暂存区
 git status查看文件目前状态
+Git commit -m ‘description’
+
